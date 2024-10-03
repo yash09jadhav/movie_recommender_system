@@ -1,5 +1,5 @@
 ***Movie Recommender System***
-**Introduction**
+
 A movie recommender system developed to demonstrate the three main types of recommendation methods:
 
 **Content-based**: Focuses purely on the content features of movies.
